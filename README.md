@@ -9,9 +9,9 @@
 
 URI: mongodb://localhost:27017
 
-Database Name: myWebDatabase
+Database Name: myDBClass
 
-Collection Name: myUserCollection
+Collection Name: myCollectionMyDBClass
 
 
 **Data Information Stored in Database:**
