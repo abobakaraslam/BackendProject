@@ -8,7 +8,9 @@
 **Database Information used in this project:**
 
 URI: mongodb://localhost:27017
+
 Database Name: myWebDatabase
+
 Collection Name: myUserCollection
 
 
